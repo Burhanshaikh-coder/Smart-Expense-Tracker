@@ -1,50 +1,87 @@
-# 💸 Smart Expense Tracker
+# 💸 Smart Expense Tracker 💰📊
 
-A modern and user-friendly Flutter Expense Tracker App designed to help users manage daily finances, track spending habits, and stay in control of their budget.
+Smart Expense Tracker is a modern and user-friendly Flutter app designed to help users manage daily finances, track expenses, control budgets, and analyze spending habits with beautiful charts and reports.
 
 ---
 
 ## ✨ Features
 
-✅ Add Income & Expenses
-✅ Categorize Transactions
-✅ Real-time Balance Updates
-✅ Clean & Responsive UI
-✅ Local Data Storage
-✅ Smooth User Experience
-✅ Beginner Friendly Design
+### 💵 Expense Management
+
+* Add new expenses
+* Edit existing expenses
+* Delete expenses
+* Categorize transactions:
+
+  * Food 🍔
+  * Travel ✈️
+  * Shopping 🛍️
+  * Bills 💡
+  * Other 📦
+
+### 📊 Dashboard
+
+* Today's Total Expenses
+* This Week Expenses
+* This Month Expenses
+* Real-time Balance Updates
+
+### 📈 Reports & Analytics
+
+* Pie Chart by Categories
+* Weekly Trend Graph
+* Monthly Trend Graph
+* Visual Chart Legends
+
+### 🎯 Budget Management
+
+* Set Monthly Budget
+* Save Budget Locally
+* View Total Spent This Month
+* Remaining Balance Tracker
+* Warning if Budget Exceeded
+* Auto Updates when new expense is added
+
+### ⚙️ Settings
+
+* Light Theme ☀️
+* Dark Theme 🌙
+* Currency Selection 💱
+* Date Format Settings 📅
+
+### 💾 Storage
+
+* Local Database Support
+* Data persists after app close
+* Smooth offline experience
 
 ---
 
-## 📱 Screenshots
-
-Add your app screenshots here later.
-
----
-
-## 🛠 Tech Stack
+## 🛠️ Built With
 
 * Flutter
 * Dart
+* Material 3 UI
 * Provider / State Management
-* Local Storage
-* Material UI
+* SQLite / SharedPreferences
+* Charts Package
 
 ---
 
 ## 🎯 Purpose of This Project
 
-This project was built to improve practical Flutter development skills and create a real-world finance management solution with a clean design and smooth functionality.
+This project was built to improve practical Flutter development skills while creating a real-world finance management solution with clean UI, responsive design, and smooth functionality.
 
 ---
 
 ## 🚀 Future Improvements
 
-* Dark Mode 🌙
-* Monthly Analytics 📊
 * Cloud Backup ☁️
+* Export Reports PDF 📄
 * Notifications 🔔
-* Export Reports 📄
+* Recurring Expenses 🔁
+* AI Spending Insights 🤖
+* Multi-language Support 🌍
 
 ---
 
@@ -59,4 +96,4 @@ LinkedIn: https://www.linkedin.com/in/burhan-shaikh-350bb4207/
 
 ## ⭐ Support
 
-If you like this project, give it a Star ⭐ on GitHub.
+If you like this project, please give it a **Star ⭐** on GitHub.
