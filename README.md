@@ -74,7 +74,7 @@ Smart Expense Tracker is a modern and user-friendly Flutter app designed to help
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b8ad2f9-690a-48e0-a843-f6de2e5b369b" width="900" height="500"/>
+  <img src="https://github.com/user-attachments/assets/0b8ad2f9-690a-48e0-a843-f6de2e5b369b" width="220" height="450"/>
 </p>
 
 ### ✨ Main App Preview
