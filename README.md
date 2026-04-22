@@ -69,20 +69,38 @@ Smart Expense Tracker is a modern and user-friendly Flutter app designed to help
 ---
 ---
 
+---
+
 ## 📱 Screenshots
 
-<img width="260" height="500" alt="App Banner" src="https://github.com/user-attachments/assets/0b8ad2f9-690a-48e0-a843-f6de2e5b369b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b8ad2f9-690a-48e0-a843-f6de2e5b369b" width="900" height="500"/>
+</p>
 
-<img width="260" height="500" alt="Splash" src="https://github.com/user-attachments/assets/c195a636-4abc-4f65-bd69-623c4dcfbc27" />
-<img width="260" height="500" alt="Home" src="https://github.com/user-attachments/assets/d5c98025-e6b4-4803-9930-93910f3476b1" />
-<img width="260" height="500" alt="Add Expense" src="https://github.com/user-attachments/assets/0f33ec4a-a3be-4ff9-87c2-4fc719b7779d" />
+### ✨ Main App Preview
 
-<img width="260" height="500" alt="Reports 1" src="https://github.com/user-attachments/assets/e3a0acaf-6d8d-47cb-b7b5-01afa9ded87b" />
-<img width="260" height="500" alt="Reports 2" src="https://github.com/user-attachments/assets/1442c827-542e-4eea-bb8a-5fd029cf196a" />
-<img width="260" height="560" alt="Budget" src="https://github.com/user-attachments/assets/213a0be2-d600-4e34-9ff7-0d45ae1f09bf" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c195a636-4abc-4f65-bd69-623c4dcfbc27" width="220" height="450"/>
+  <img src="https://github.com/user-attachments/assets/d5c98025-e6b4-4803-9930-93910f3476b1" width="220" height="450"/>
+  <img src="https://github.com/user-attachments/assets/0f33ec4a-a3be-4ff9-87c2-4fc719b7779d" width="220" height="450"/>
+</p>
 
-<img width="260" height="500" alt="Settings Light" src="https://github.com/user-attachments/assets/d98bc52e-5161-40ab-ae54-4d5c0a768d0d" />
-<img width="260" height="500" alt="Settings Dark" src="https://github.com/user-attachments/assets/f7e87879-aa04-4811-b664-f3cfe3bea729" />
+### 📊 Reports & Budget
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e3a0acaf-6d8d-47cb-b7b5-01afa9ded87b" width="220" height="450"/>
+  <img src="https://github.com/user-attachments/assets/1442c827-542e-4eea-bb8a-5fd029cf196a" width="220" height="450"/>
+  <img src="https://github.com/user-attachments/assets/213a0be2-d600-4e34-9ff7-0d45ae1f09bf" width="220" height="450"/>
+</p>
+
+### ⚙️ Settings
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d98bc52e-5161-40ab-ae54-4d5c0a768d0d" width="220" height="450"/>
+  <img src="https://github.com/user-attachments/assets/f7e87879-aa04-4811-b664-f3cfe3bea729" width="220" height="450"/>
+</p>
+
+---
 
 ---
 
