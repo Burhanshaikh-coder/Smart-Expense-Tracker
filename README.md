@@ -67,6 +67,17 @@ Smart Expense Tracker is a modern and user-friendly Flutter app designed to help
 * Charts Package
 
 ---
+## 📱 Screenshots
+<img width="2000" height="2000" alt="smart EXPENSE TRACKER (2)" src="https://github.com/user-attachments/assets/0b8ad2f9-690a-48e0-a843-f6de2e5b369b" />
+<img width="720" height="1600" alt="splash" src="https://github.com/user-attachments/assets/c195a636-4abc-4f65-bd69-623c4dcfbc27" />
+<img width="720" height="1600" alt="home" src="https://github.com/user-attachments/assets/d5c98025-e6b4-4803-9930-93910f3476b1" />
+<img width="720" height="1600" alt="add expense" src="https://github.com/user-attachments/assets/0f33ec4a-a3be-4ff9-87c2-4fc719b7779d" />
+<img width="720" height="1600" alt="reports 1" src="https://github.com/user-attachments/assets/e3a0acaf-6d8d-47cb-b7b5-01afa9ded87b" />
+<img width="720" height="1600" alt="reports 2" src="https://github.com/user-attachments/assets/1442c827-542e-4eea-bb8a-5fd029cf196a" />
+<img width="720" height="1600" alt="budget" src="https://github.com/user-attachments/assets/213a0be2-d600-4e34-9ff7-0d45ae1f09bf" />
+<img width="1080" height="2400" alt="settings light" src="https://github.com/user-attachments/assets/d98bc52e-5161-40ab-ae54-4d5c0a768d0d" />
+<img width="1080" height="2400" alt="setting" src="https://github.com/user-attachments/assets/f7e87879-aa04-4811-b664-f3cfe3bea729" />
+
 
 ## 🎯 Purpose of This Project
 
@@ -84,6 +95,7 @@ This project was built to improve practical Flutter development skills while cre
 * Multi-language Support 🌍
 
 ---
+
 
 ## 👨‍💻 Developed By
 
